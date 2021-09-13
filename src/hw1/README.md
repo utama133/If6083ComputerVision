@@ -63,8 +63,6 @@ As we discussed, we need to filter before we do this extreme resize operation!
 
 ## Turn it in ##
 
-## Turn it in ##
-
 Besides submitting your program, you need to make video-demo which shows how you run your program, and how the result appears.
 put them all in under your name and NIM under assignment 1. 
 
