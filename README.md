@@ -10,10 +10,10 @@ To get started, make sure you have `git`, a C compiler, and `make` installed. Th
 
 and check to see that everything compiles correctly. Then, to get started, open up the `README` for homework 0 in `src/hw0/README.md`, or view it [here](./src/hw0/README.md). Good luck and have fun!
 
-[Homework-0](./src/hw0/README.md)
-[Homework-1](./src/hw1/README.md)
-[Homework-2](./src/hw2/README.md)
-[Homework-3](./src/hw3/README.md)
-[Homework-4](./src/hw4/README.md)
-[Homework-5](./src/hw5/README.md)
+[Homework-0](./src/hw0/README.md)<br /> 
+[Homework-1](./src/hw1/README.md)<br /> 
+[Homework-2](./src/hw2/README.md)<br /> 
+[Homework-3](./src/hw3/README.md)<br /> 
+[Homework-4](./src/hw4/README.md)<br /> 
+[Homework-5](./src/hw5/README.md)<br /> 
 
