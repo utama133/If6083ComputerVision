@@ -5,7 +5,7 @@ In this repository you will find instructions on how to build your own image pro
 To get started, make sure you have `git`, a C compiler, and `make` installed. Then run:
 
     git clone https://github.com/utama133/If6083ComputerVision.git
-    cd uwimg
+    cd If6083ComputerVision
     make
 
 and check to see that everything compiles correctly. 
