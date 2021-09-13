@@ -8,7 +8,9 @@ To get started, make sure you have `git`, a C compiler, and `make` installed. Th
     cd uwimg
     make
 
-and check to see that everything compiles correctly. Then, to get started, open up the `README` for homework 0 in `src/hw0/README.md`, or view it [here](./src/hw0/README.md). Good luck and have fun!
+and check to see that everything compiles correctly. 
+Then, to get started, open the link below!
+Good luck and have fun!
 
 [Homework-0](./src/hw0/README.md)<br /> 
 [Homework-1](./src/hw1/README.md)<br /> 
