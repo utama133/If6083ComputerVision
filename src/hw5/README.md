@@ -140,9 +140,9 @@ To run your model you'll need the dataset. The training images can be found [her
     tar xzf mnist_train.tar.gz
     tar xzf mnist_test.tar.gz
     
-    note: wget can be replaced with (from the terminal)
-    curl -o mnis_train.tar.gz http://pjreddie.com/media/files/mnist_train.tar.gz
-    curl -o mnis_test.tar.gz http://pjreddie.com/media/files/mnist_test.tar.gz
+    ####note: wget can be replaced with (from the terminal)####
+    curl -o mnist_train.tar.gz http://pjreddie.com/media/files/mnist_train.tar.gz
+    curl -o mnist_test.tar.gz http://pjreddie.com/media/files/mnist_test.tar.gz
     
 We'll also need a list of the images in our training and test set. To do this you can run:
 
@@ -203,7 +203,7 @@ We have to do a similar process as last time, getting the data and creating file
     find cifar/train -name \*.png > cifar.train
     find cifar/test -name \*.png > cifar.test
     
-    note: wget can be replaced with (from the terminal)
+    ####note: wget can be replaced with (from the terminal)####
     curl -o cifar.tgz http://pjreddie.com/media/files/cifar.tgz
 
 Notice that the file of possible labels can be found in `cifar/labels.txt`
