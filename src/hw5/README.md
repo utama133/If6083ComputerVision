@@ -134,12 +134,16 @@ When there are questions during this section please answer them in the `tryhw5.p
 ### 5.2.1 Getting the data ###
 
 To run your model you'll need the dataset. The training images can be found [here](https://pjreddie.com/media/files/mnist_train.tar.gz) and the test images are [here](https://pjreddie.com/media/files/mnist_test.tar.gz), I've preprocessed them for you into PNG format. To get the data you can run:
-
+    
     wget https://pjreddie.com/media/files/mnist_train.tar.gz
     wget https://pjreddie.com/media/files/mnist_test.tar.gz
     tar xzf mnist_train.tar.gz
     tar xzf mnist_test.tar.gz
-
+    
+    note: wget can be replaced with (from the terminal)
+    curl -o mnis_train.tar.gz http://pjreddie.com/media/files/mnist_train.tar.gz
+    curl -o mnis_test.tar.gz http://pjreddie.com/media/files/mnist_test.tar.gz
+    
 We'll also need a list of the images in our training and test set. To do this you can run:
 
     find train -name \*.png > mnist.train
@@ -198,6 +202,9 @@ We have to do a similar process as last time, getting the data and creating file
     tar xzf cifar.tgz
     find cifar/train -name \*.png > cifar.train
     find cifar/test -name \*.png > cifar.test
+    
+    note: wget can be replaced with (from the terminal)
+    curl -o cifar.tgz http://pjreddie.com/media/files/cifar.tgz
 
 Notice that the file of possible labels can be found in `cifar/labels.txt`
 
