@@ -2,7 +2,7 @@
 
 Welcome friends,
 
-It's time for assignment 1! This one may be a little harder than the last one so remember to start early and start often! In order to make grading easier, please only edit the files we mention. You will submit the `resize_image.c` file on Canvas.
+It's time for assignment 1! This one may be a little harder than the last one so remember to start early and start often! In order to make grading easier, please only edit the files we mention. You will submit the `resize_image.c` 
 
 To test your homework, make sure you have run `make` to recompile, then run `./uwimg test hw1`
 
