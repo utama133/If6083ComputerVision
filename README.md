@@ -12,10 +12,10 @@ and check to see that everything compiles correctly.
 Then, to get started, open the link below!
 Good luck and have fun!
 
-[Homework-0](./src/hw0/README.md) deadline: 20Sep2021 @23.55 <br /> 
-[Homework-1](./src/hw1/README.md) deadline: 01Okt2021 @23.55 <br /> 
-[Homework-2](./src/hw2/README.md) deadline: 08Okt2021 @23.55 <br /> 
-[Homework-3](./src/hw3/README.md) deadline: 22Okt2021 @23.55 <br /> 
-[Homework-4](./src/hw4/README.md) deadline: 05Nov2021 @23.55 <br /> 
-[Homework-5](./src/hw5/README.md) deadline: 19Nov2021 @23.55 <br /> 
+[Homework-0](./src/hw0/README.md) deadline: 05Sep2022 @23.55 <br /> 
+[Homework-1](./src/hw1/README.md) deadline: 19Sep2022 @23.55 <br /> 
+[Homework-2](./src/hw2/README.md) deadline: 03Okt2022 @23.55 <br /> 
+[Homework-3](./src/hw3/README.md) deadline: 17Okt2022 @23.55 <br /> 
+[Homework-4](./src/hw4/README.md) deadline: 31Okt2022 @23.55 <br /> 
+[Homework-5](./src/hw5/README.md) deadline: 14Nov2022 @23.55 <br /> 
 
